@@ -1,1 +1,1 @@
-**[*Link to CV*](http://disi07.github.io/rsschool-cv/cv)**
+**[*Link to CV*](http://disi07.github.io/rsschool-cv-html/index.html)**
