@@ -6,9 +6,9 @@ html {
 }
 .container {
   display: flex;
-  max-width: 960px;
+  max-width: 1024px;
   background-color: #eaeaea;
-  justify-content: space-between;
+  justify-content: center;
   margin: 20px auto;
   box-shadow: 1px 1px 10px rgba(0,0,0,0.1);
 }
@@ -177,7 +177,7 @@ addres {
   letter-spacing: 10.75px;
   margin-bottom: 10px;
 }
-position {
+.position {
   display: inline-block;
   font-size:9px;
   text-transform: uppercase;
